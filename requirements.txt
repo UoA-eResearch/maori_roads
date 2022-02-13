@@ -1,0 +1,3 @@
+geopandas
+seaborn
+https://github.com/TeHikuMedia/nga-kupu/archive/refs/heads/master.zip
