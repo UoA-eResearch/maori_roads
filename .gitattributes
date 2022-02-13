@@ -1,0 +1,2 @@
+lds-nz-roads-addressing-FGDB.zip filter=lfs diff=lfs merge=lfs -text
+lds-nz-roads-addressing-kupu_māori.gpkg filter=lfs diff=lfs merge=lfs -text
